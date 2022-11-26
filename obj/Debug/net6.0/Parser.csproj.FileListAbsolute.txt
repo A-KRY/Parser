@@ -1,0 +1,15 @@
+G:\Codes\Visual Studio\Complier Principle\Parser\bin\Debug\net6.0\Parser.exe
+G:\Codes\Visual Studio\Complier Principle\Parser\bin\Debug\net6.0\Parser.deps.json
+G:\Codes\Visual Studio\Complier Principle\Parser\bin\Debug\net6.0\Parser.runtimeconfig.json
+G:\Codes\Visual Studio\Complier Principle\Parser\bin\Debug\net6.0\Parser.dll
+G:\Codes\Visual Studio\Complier Principle\Parser\bin\Debug\net6.0\Parser.pdb
+G:\Codes\Visual Studio\Complier Principle\Parser\obj\Debug\net6.0\Parser.csproj.AssemblyReference.cache
+G:\Codes\Visual Studio\Complier Principle\Parser\obj\Debug\net6.0\Parser.GeneratedMSBuildEditorConfig.editorconfig
+G:\Codes\Visual Studio\Complier Principle\Parser\obj\Debug\net6.0\Parser.AssemblyInfoInputs.cache
+G:\Codes\Visual Studio\Complier Principle\Parser\obj\Debug\net6.0\Parser.AssemblyInfo.cs
+G:\Codes\Visual Studio\Complier Principle\Parser\obj\Debug\net6.0\Parser.csproj.CoreCompileInputs.cache
+G:\Codes\Visual Studio\Complier Principle\Parser\obj\Debug\net6.0\Parser.dll
+G:\Codes\Visual Studio\Complier Principle\Parser\obj\Debug\net6.0\refint\Parser.dll
+G:\Codes\Visual Studio\Complier Principle\Parser\obj\Debug\net6.0\Parser.pdb
+G:\Codes\Visual Studio\Complier Principle\Parser\obj\Debug\net6.0\Parser.genruntimeconfig.cache
+G:\Codes\Visual Studio\Complier Principle\Parser\obj\Debug\net6.0\ref\Parser.dll
